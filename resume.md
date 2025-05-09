@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: /resume/
+permalink: /asif_Devops_resume/
 ---
 
 <section class="resume">
