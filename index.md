@@ -48,7 +48,7 @@ title: Welcome
 <style>
 .hero {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   padding: 4rem 2rem;
   background-color: #111827;
   color: white;
