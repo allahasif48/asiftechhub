@@ -1,0 +1,21 @@
+
+body.dark {
+  background-color: #121212;
+  color: #f5f5f5;
+  font-family: sans-serif;
+  line-height: 1.6;
+  padding: 0 20px;
+}
+header, footer {
+  background: #1e1e1e;
+  padding: 10px;
+  text-align: center;
+}
+a {
+  color: #90caf9;
+  text-decoration: none;
+  margin: 0 10px;
+}
+a:hover {
+  text-decoration: underline;
+}

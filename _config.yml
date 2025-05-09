@@ -1,0 +1,10 @@
+
+title: Asifali Shaik | Portfolio
+email: yourname@domain.com
+description: >-
+  DevOps Engineer | Cloud Enthusiast | Blogger
+baseurl: "" 
+url: "https://yourusername.github.io/asiftechhub"
+theme: minima
+plugins:
+  - jekyll-feed
