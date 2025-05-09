@@ -29,56 +29,30 @@ title: Welcome
   </div>
 </section>
 
+<section class="projects-home">
+  <h2>🚀 Featured Projects</h2>
+  <div class="project">
+    <img src="/assets/project1.jpg" alt="Project 1" />
+    <h3>Project 1: Kubernetes Deployment</h3>
+    <p>A brief description of the project here.</p>
+    <a href="/projects/kubernetes-deployment">Read More →</a>
+  </div>
+
+  <div class="project">
+    <img src="/assets/project2.jpg" alt="Project 2" />
+    <h3>Project 2: CI/CD with Jenkins</h3>
+    <p>A brief description of the project here.</p>
+    <a href="/projects/ci-cd-with-jenkins">Read More →</a>
+  </div>
+
+  <div class="project">
+    <img src="/assets/project3.jpg" alt="Project 3" />
+    <h3>Project 3: Terraform Infrastructure</h3>
+    <p>A brief description of the project here.</p>
+    <a href="/projects/terraform-infrastructure">Read More →</a>
+  </div>
+</section>
+
 <style>
-.hero {
-  padding: 4rem 2rem;
-  text-align: center;
-}
-.hero .highlight {
-  color: #4ade80;
-  font-weight: bold;
-}
-.hero .subtitle {
-  font-size: 1.25rem;
-  color: #9ca3af;
-}
-.btn {
-  display: inline-block;
-  margin: 1rem 0.5rem;
-  padding: 0.75rem 1.5rem;
-  background: #4ade80;
-  color: white;
-  border-radius: 8px;
-  text-decoration: none;
-  font-weight: 600;
-}
-.btn-outline {
-  background: transparent;
-  border: 2px solid #4ade80;
-  color: #4ade80;
-}
-.features {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  padding: 2rem;
-  gap: 2rem;
-  background: #111827;
-  color: white;
-}
-.feature {
-  flex: 1 1 300px;
-  padding: 1.5rem;
-  background: #1f2937;
-  border-radius: 12px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
-}
-.feature h2 {
-  margin-top: 0;
-  color: #4ade80;
-}
-.feature a {
-  color: #93c5fd;
-  text-decoration: underline;
-}
+/* Add styles here for .hero, .projects-home, etc. */
 </style>
