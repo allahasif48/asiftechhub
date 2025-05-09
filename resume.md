@@ -8,10 +8,10 @@ permalink: /resume/
   <h2>My Resume</h2>
   <p>Here is a quick overview of my professional background. You can also download my full resume in PDF format.</p>
   <ul>
-    <li><strong>Current Role:</strong> DevOps Engineer at XYZ Corp</li>
+    <li><strong>Current Role:</strong> DevOps Engineer at BCSTEC/li>
     <li><strong>Skills:</strong> AWS, Kubernetes, Docker, Terraform, Jenkins, CI/CD, Git</li>
     <li><strong>Experience:</strong> 5+ years working in DevOps and cloud engineering</li>
-    <li><strong>Education:</strong> Bachelor's in Computer Science</li>
+    <li><strong>Education:</strong> Bachelor's in Information Technology</li>
   </ul>
   <p>Download my full resume as a <a href="/assets/asif_Devops_resume.pdf" target="_blank">PDF</a>.</p>
 </section>
