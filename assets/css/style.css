@@ -1,21 +1,28 @@
 
-body.dark {
-  background-color: #121212;
-  color: #f5f5f5;
-  font-family: sans-serif;
-  line-height: 1.6;
-  padding: 0 20px;
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #0d1117 url('../img/background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: #c9d1d9;
 }
-header, footer {
-  background: #1e1e1e;
-  padding: 10px;
+header {
+  background-color: #161b22cc;
+  padding: 1em;
   text-align: center;
 }
-a {
-  color: #90caf9;
-  text-decoration: none;
+nav a {
   margin: 0 10px;
+  color: #58a6ff;
+  text-decoration: none;
 }
 a:hover {
   text-decoration: underline;
+}
+main {
+  padding: 2em;
+  background-color: #0d1117cc;
+  border-radius: 8px;
+  margin: 2em auto;
+  max-width: 800px;
 }
